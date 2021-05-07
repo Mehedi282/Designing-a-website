@@ -1,0 +1,121 @@
+header{
+	background-image:url("layout.jpg");
+	background-attachment:fixed;
+	padding:40px;
+	width:100%;
+	bottom:0;
+}
+h1{
+	color:green;
+	padding:10px;
+}
+h4{
+	color:black;
+	padding:3px;
+}
+h3{
+	color:yellow;
+	padding:3px;
+}
+nav{
+	overflow:hidden;
+	background-color:black;
+}
+#tt a{
+	float:right;
+	color:white;
+	padding:10px 10px;
+	display:block;
+	text-decoration:none;
+	
+}
+#tt a:hover{
+	color:#000000;
+	background-color:#00ffff;
+}
+
+#left_collum1{
+	width:70%;
+	float:left;
+	text-align:middle;
+	 
+	
+}
+#rightcollum{
+	width:30%;
+	float:right;
+	text-align:center;
+	
+}
+img{
+	width:100%;
+	height:400px;
+	border:1px solid;
+	
+}
+#ee{
+    padding:20%;
+	color:#bb0000;
+}
+#pa{
+	border:5px outset green;
+	width: 30%;
+	margin:auto;
+}
+
+#im{
+	border:2px outset;
+	width:65%;
+	margin:auto;
+}
+footer{
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+
+}
+#mc{
+	border:2px outset white;
+	background-color:#fa00ee;
+	margin:auto;
+	text-align:center;
+	width:80%;
+}
+#dnb{
+	width:70%;
+	margin:auto;
+}
+#nb a{
+	float:middle;
+	color:red;
+	padding:5px 5px;
+	display:block;
+	text-decoration:none;
+}
+#nb a:hover{
+	color:#000000;
+	background-color:#00ffff;
+}
+#rr{
+	background: black fixed 100%;
+	 border-radius: 25px;
+	padding:20px;
+	width:80%;
+	text-align:middle;
+	margin:auto;
+	
+}
+lavel{
+	color:#eeaa00;
+	font-size:30px;
+}
+#informations1{
+	margin:auto;
+	width:80%;
+	border: 0px outset blue;
+	padding:5px;
+}
